@@ -1,0 +1,11 @@
+/home/dkey/projects/2024/practice/dotnet/tdd/NumberConversion/Core/bin/Debug/net8.0/Core.deps.json
+/home/dkey/projects/2024/practice/dotnet/tdd/NumberConversion/Core/bin/Debug/net8.0/Core.dll
+/home/dkey/projects/2024/practice/dotnet/tdd/NumberConversion/Core/bin/Debug/net8.0/Core.pdb
+/home/dkey/projects/2024/practice/dotnet/tdd/NumberConversion/Core/obj/Debug/net8.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/dkey/projects/2024/practice/dotnet/tdd/NumberConversion/Core/obj/Debug/net8.0/Core.AssemblyInfoInputs.cache
+/home/dkey/projects/2024/practice/dotnet/tdd/NumberConversion/Core/obj/Debug/net8.0/Core.AssemblyInfo.cs
+/home/dkey/projects/2024/practice/dotnet/tdd/NumberConversion/Core/obj/Debug/net8.0/Core.csproj.CoreCompileInputs.cache
+/home/dkey/projects/2024/practice/dotnet/tdd/NumberConversion/Core/obj/Debug/net8.0/Core.dll
+/home/dkey/projects/2024/practice/dotnet/tdd/NumberConversion/Core/obj/Debug/net8.0/refint/Core.dll
+/home/dkey/projects/2024/practice/dotnet/tdd/NumberConversion/Core/obj/Debug/net8.0/Core.pdb
+/home/dkey/projects/2024/practice/dotnet/tdd/NumberConversion/Core/obj/Debug/net8.0/ref/Core.dll
